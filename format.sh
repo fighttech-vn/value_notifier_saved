@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 
-flutter format --set-exit-if-changed .
+dart format --set-exit-if-changed .
